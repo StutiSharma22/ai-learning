@@ -1,2 +1,2 @@
-# ai-learning-notes
-Notes on artificial intelligence and machine learning concepts during my learning journey.
+# ai-learning
+Projects on artificial intelligence and machine learning concepts during my learning journey.
